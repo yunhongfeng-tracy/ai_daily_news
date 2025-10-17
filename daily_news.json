@@ -1,0 +1,45 @@
+{
+  "daily_news": [
+    {
+      "title": "OpenAI携手博通打造定制AI芯片，2026年起部署数据中心",
+      "url": "https://techcrunch.com/2025/10/14/openai-and-broadcom-partner-on-ai-hardware/",
+      "publish_date": "2025-10-14",
+      "summary": "OpenAI 正与博通（Broadcom）合作，自2026年起为其数据中心提供定制AI硬件。这项合作是OpenAI在AI芯片领域进行的数千亿美元级别投资的一部分。除博通外，OpenAI还与AMD、Nvidia、Oracle等企业合作，共同构建强大的AI基础设施。",
+      "tags": ["AI硬件", "OpenAI", "芯片基础设施"],
+      "score": 9.5,
+      "recommendation_reason": "涉及OpenAI在AI硬件方面的重大投资和合作，对大模型训练与部署具有关键意义，信息密度高，可信度强。"
+    },
+    {
+      "title": "Google投资150亿美元 在印度打造AI基础设施枢纽",
+      "url": "https://techcrunch.com/2025/10/14/google-to-invest-15b-in-indian-ai-infrastructure-hub/",
+      "publish_date": "2025-10-14",
+      "summary": "Google宣布将在印度维沙卡帕特南投资150亿美元，建设大型AI与数据中心枢纽。该枢纽将支持本地AI计算及Google搜索、YouTube等全球服务，旨在推动印度科技发展并加强区域连接能力。",
+      "tags": ["Google", "人工智能基础设施", "印度市场"],
+      "score": 9.0,
+      "recommendation_reason": "全球科技巨头在新兴市场布局AI基础设施，对行业发展有深远影响。"
+    },
+    {
+      "title": "Firefox新增Perplexity AI搜索引擎 支持对话式答案呈现",
+      "url": "https://techcrunch.com/2025/10/14/mozillas-firefox-adds-perplexitys-ai-answer-engine-as-a-new-search-option/",
+      "publish_date": "2025-10-14",
+      "summary": "Mozilla Firefox浏览器现已支持将Perplexity作为搜索选项。该AI搜索引擎以对话形式呈现带引用的答案，区别于传统链接列表。目前该功能已在桌面端全球上线，移动端即将推出。",
+      "tags": ["浏览器集成AI搜索", "Perplexity.ai", "自然语言问答"],
+      "score": 8.8,
+      "recommendation_reason": "展示了传统浏览器如何整合生成式AI搜索引擎，是大模型应用的重要方向。"
+    },
+    {
+      "title": "Flint获Sheryl Sandberg支持，打造自动化AI建站平台",
+      "url": "https://techcrunch.com/2025/10/14/sheryl-sandberg-backed-flint-wants-to-use-ai-to-autonomously-build-and-update-websites/",
+      "publish_date": "2025-10-14",
+      "summary": "由Michelle Lim联合创办的Flint，是一款利用AI快速自动构建和更新网站的平台。该平台可在约一天内自动生成网页设计和交互元素，显著提升市场人员建站效率。Flint近期获得500万美元融资，投资方包括Sheryl Sandberg的风投基金。",
+      "tags": ["自动化建站平台", "创业公司融资", "生成式设计工具"],
+      "score": 8.7,
+      "recommendation_reason": "展示了生成式AI在网页开发中的实际应用场景，有较强的商业潜力和技术价值。"
+    }
+  ],
+  "metadata": {
+    "total_articles": 4,
+    "generation_date": "2025-10-17",
+    "source_template": "daily_template"
+  }
+}
